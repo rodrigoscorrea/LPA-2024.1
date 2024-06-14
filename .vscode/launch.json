@@ -5,7 +5,7 @@
             "name": "Debug",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/laboratorio3/lab3",
+            "program": "${workspaceFolder}/laboratorio4/lab4",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
